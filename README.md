@@ -1,2 +1,2 @@
-# Classfiers
-Assignment for Optimizzation and Data Analytics
+# Data Analytics and Optimization
+Simple classification, data analytics and visualization tasks 
